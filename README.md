@@ -2,8 +2,6 @@
 <h3 align="center">An aspiring blockchain developer and a student studying Computer Science at TIET, Patiala  </h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/f7omQNmgiyjj5sffvZ/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=10-zing&label=Profile%20views&color=0e75b6&style=flat" alt="10-zing" /> </p>
-
 <p align="left"> <a href="https://twitter.com/bhutia_10zing" target="blank"><img src="https://img.shields.io/twitter/follow/bhutia_10zing?logo=twitter&style=for-the-badge" alt="bhutia_10zing" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript and React**

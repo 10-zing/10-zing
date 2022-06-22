@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/bhutia_10zing" target="blank"><img src="https://img.shields.io/twitter/follow/bhutia_10zing?logo=twitter&style=for-the-badge" alt="bhutia_10zing" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript and React**
+- 🌱 I’m currently learning and working on **Solidity, Javascript, React, ML**
 
 - 💬 Ask me about **C++,C, Python**
 
